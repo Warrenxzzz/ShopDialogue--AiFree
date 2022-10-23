@@ -1,0 +1,22 @@
+name = input("Enter Username: ")
+print(f"Welcome to the shop {name}")
+print("Today, the scavenger bot has found>Legendary Spaci Model<***>Rare Crystal Helm<***>Standard Bomb<***>Nothing<")
+Question = input("What would you like to purchase")
+if Question == ("Legendary Spaci Model"): 
+    print ("500 million credits please")
+elif Question == ("Rare Crystal Helm"):
+    print ("1000 credits please-Stats:+1500 hp")
+elif Question == ("Standard Bomb"):
+    print ("10 credits per bomb")
+elif Question == ("None"):
+    then
+Question = input("Would you like to earn credits?>Yes!<***>No.<")
+if Question == ("Yes!"):
+    print("To earn credits, complete quests, explore the city, or get resources from different planets")
+elif Question == ("No."):
+    print("Returning to menu...More updates will appear in the future...")
+    then
+print("Joining Game...")
+print("...")
+print("...")
+print("...")
